@@ -85,6 +85,3 @@ README.md    this file
 - Extra export sizes (square, story)
 - Custom vibe editor in the UI
 
-## License
-
-Add a license of your choice, for example [MIT](https://choosealicense.com/licenses/mit/), by creating a `LICENSE` file in the repo root.

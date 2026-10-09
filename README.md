@@ -4,7 +4,7 @@ Paste a list of song titles, get them sorted into vibes, and export the result a
 
 It's a single static HTML file. No build step, no dependencies, no API keys, and nothing is uploaded anywhere.
 
-<!-- ![Playlist Mood Board screenshot]<img width="1157" height="868" alt="image" src="https://github.com/user-attachments/assets/479522ce-6590-4f35-967f-1cfca74e8226" />
+<!-- ![Playlist Mood Board screenshot] <img width="1157" height="868" alt="image" src="https://github.com/user-attachments/assets/479522ce-6590-4f35-967f-1cfca74e8226" />
  -->
 
 ## Features
